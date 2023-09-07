@@ -6,7 +6,7 @@ ordre croissant ou décroissant
 
 Utilisation python:
 
-import module-tri (ou: from module-tri import tri)
+import module-tri #  ou from module-tri import tri
 result = tri(name,tab,direction)
 
     # where name must be: "fusion" or "buble"
