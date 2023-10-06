@@ -6,13 +6,15 @@ ordre croissant ou décroissant
 
 Utilisation python:
 
-import module-tri #  ou from module-tri import tri
+import module-tri 
+ou
+from module-tri import tri
 
 result = tri(name,tab,direction)
 
-    # where name must be: "fusion" or "buble"
+    # where name must be string: "fusion" or "buble"
     #       tab : your list
-    #       direction must be: "increase" or "decrease"
+    #       direction must be string: "increase" or "decrease"
     
  Exemple:
  
